@@ -23,14 +23,9 @@ https://thisislefa.github.io/web-feature-06
 - CSS3 (Custom Properties, Keyframe Animations, Transforms)
 - Vanilla JavaScript (ES6+)
 
-## Project Structure
-├── index.html # Main component structure
-├── style.css # All styles and animations
-└── script.js # Interactive functionality
-
-
 ## Installation
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/thisislefa/web-feature-06.git
+
